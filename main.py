@@ -2,7 +2,7 @@
 # Este archivo es el principal del programa.
 # Aquí se crean los objetos y se prueba el funcionamiento de todas las clases.
 
-from libro import Libro
+from Libro import Libro
 from cliente import Cliente
 from tienda import Tienda
 
