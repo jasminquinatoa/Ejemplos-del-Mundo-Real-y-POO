@@ -3,8 +3,8 @@
 # Aquí se crean los objetos y se prueba el funcionamiento de todas las clases.
 
 from Libro import Libro
-from cliente import Cliente
-from tienda import Tienda
+from Cliente import Cliente
+from Tienda import Tienda
 
 # Se crean algunos libros para la tienda
 libro1 = Libro("Python Básico", "Ana Pérez", 25, 10)
